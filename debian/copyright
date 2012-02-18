@@ -5,6 +5,34 @@ Source: http://www.talp.cat/festcat/download.php
 Copyright: Universitat Politècnica de Catalunya, Antonio Bonafonte
 License: LGPL-2.1+
 
+Files: 
+hts/*.pdf
+hts/lf0.win*
+hts/mgc.win*
+hts/*.inf
+Copyright: Copyright 2007 Universitat Politècnica de Catalunya, Antonio Bonafonte
+License: LGPL-2.1+
+
+Files: hts/label.feats
+Copyright: 2001-2008  Nagoya Institute of Technology, Department of Computer Science
+           2001-2008  Tokyo Institute of Technology, Interdisciplinary Graduate School of Science and Engineering
+License: BSD-3-clause
+
+Files: festvox/upc_ca_ona_hts.scm
+Copyright: 2002 Nagoya Institute of Technology, Carnegie Mellon University
+           2007 Antonio Bonafonte
+License: EST and LGPL-2.1+
+ Modifications by Antonio Bonafonte, originals available at festvox.orig                                 
+ as requested.
+
+Files: doc/festvox.orig/nitech_us_slt_arctic_hts.scm
+Copyright: 2002 Nagoya Institute of Technology, Carnegie Mellon University
+License: EST
+
+Files: debian/*
+Copyright: Copyright 2011 Sergio Oller <sergioller@gmail.com>
+License: LGPL-2.1+
+
 License: LGPL-2.1+
  This program is free software; you can redistribute it
  and/or modify it under the terms of the GNU Lesser General Public
@@ -90,41 +118,4 @@ License: EST
  TORTUOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR  
  PERFORMANCE OF THIS SOFTWARE.  
 
-Files: 
-hts/dur.pdf
-hts/gv-lf0.pdf
-hts/gv-mgc.pdf
-hts/lf0.pdf
-hts/lf0.win1
-hts/lf0.win2
-hts/lf0.win3
-hts/mgc.pdf
-hts/mgc.win1
-hts/mgc.win2
-hts/mgc.win3
-hts/tree-dur.inf
-hts/tree-lf0.inf
-hts/tree-mgc.inf
-Copyright: Copyright 2007 Universitat Politècnica de Catalunya, Antonio Bonafonte
-License: LGPL-2.1+
-
-Files: hts/label.feats
-Copyright: 2001-2008  Nagoya Institute of Technology, Department of Computer Science
-           2001-2008  Tokyo Institute of Technology, Interdisciplinary Graduate School of Science and Engineering
-License: BSD-3-clause and LGPL-2.1+
-
-Files: festvox/upc_ca_ona_hts.scm
-Copyright: 2002 Nagoya Institute of Technology, Carnegie Mellon University
-           2007 Antonio Bonafonte
-License: EST and LGPL-2.1+
- Modifications by Antonio Bonafonte, originals available at festvox.orig                                 
- as requested.
-
-Files: doc/festvox.orig/nitech_us_slt_arctic_hts.scm
-Copyright: 2002 Nagoya Institute of Technology, Carnegie Mellon University
-License: EST
-
-Files: debian/*
-Copyright: Copyright 2011 Sergio Oller <sergioller@gmail.com>
-License: LGPL-2.1+
 

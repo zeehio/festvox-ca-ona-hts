@@ -8,8 +8,13 @@ Homepage: http://www.talp.cat/festcat/
 
 Package: festvox-ca-ona-hts
 Architecture: all
-Depends: festival (>= 2.0.95), festival-ca (>=1.0), ${misc:Depends}
-Description: Catalan female speaker for festival, 16kHz HTS.
- This is a HTS voice for festival that uses 16kHz sample rate.
- It is a catalan female voice.
- This voice was generated with close to 10 hours of recordings.
+Depends: festival-ca (>=1.0), ${misc:Depends}
+Provides: festival-catalan-voice
+Description: Catalan female speaker for festival, 16kHz HTS
+ This is a Catalan female HTS voice for festival that uses 
+ 16kHz samples. Using festival, this package allows to transform 
+ written text to speech spoken with a high quality female voice.
+ 
+ This voice was generated with 10 hours of recordings at 
+ Universitat Politècnica de Catalunya.
+
