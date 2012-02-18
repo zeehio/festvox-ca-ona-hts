@@ -1,0 +1,15 @@
+Source: festvox-ca-ona-hts
+Section: sound
+Priority: optional
+Maintainer: Sergio Oller <sergioller@gmail.com>
+Build-Depends: debhelper (>= 8)
+Standards-Version: 3.9.2
+Homepage: http://www.talp.cat/festcat/
+
+Package: festvox-ca-ona-hts
+Architecture: all
+Depends: festival (>= 2.0.95), festival-ca (>=1.0), ${misc:Depends}
+Description: Catalan female speaker for festival, 16kHz HTS.
+ This is a HTS voice for festival that uses 16kHz sample rate.
+ It is a catalan female voice.
+ This voice was generated with close to 10 hours of recordings.
