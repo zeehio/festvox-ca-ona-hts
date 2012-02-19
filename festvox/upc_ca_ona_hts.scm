@@ -183,6 +183,7 @@ Define voice for catalan."
  '((language catalan)
    (gender female)
    (dialect central)
+   (coding ISO-8859-15)
    (description
     "Catalan speaker ona from the Festcat project.")))
 
