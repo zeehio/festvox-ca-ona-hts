@@ -1,5 +1,5 @@
-festvox-ca-ona-hts (1.0-1) experimental; urgency=low
+festvox-ca-ona-hts (1.0.1-1) unstable; urgency=low
 
   * Initial release (Closes: #639701)
 
- -- Sergio Oller <sergioller@gmail.com>  Mon, 29 Aug 2011 17:14:24 +0200
+ -- Sergio Oller <sergioller@gmail.com>  Sun, 19 Feb 2012 16:16:00 +0100
