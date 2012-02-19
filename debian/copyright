@@ -6,10 +6,10 @@ Copyright: Universitat Politècnica de Catalunya, Antonio Bonafonte
 License: LGPL-2.1+
 
 Files: 
-hts/*.pdf
-hts/lf0.win*
-hts/mgc.win*
-hts/*.inf
+ hts/*.pdf
+ hts/lf0.win*
+ hts/mgc.win*
+ hts/*.inf
 Copyright: Copyright 2007 Universitat Politècnica de Catalunya, Antonio Bonafonte
 License: LGPL-2.1+
 

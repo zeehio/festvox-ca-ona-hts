@@ -12,7 +12,7 @@ Depends: festival-ca (>=1.0), ${misc:Depends}
 Provides: festival-catalan-voice
 Description: Catalan female speaker for festival, 16kHz HTS
  This is a Catalan female HTS voice for festival that uses 
- 16kHz samples. Using festival, this package allows to transform 
+ 16kHz samples. Using festival, this package allows one to transform 
  written text to speech spoken with a high quality female voice.
  .
  This voice was generated with 10 hours of recordings at 
