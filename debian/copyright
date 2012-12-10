@@ -1,7 +1,7 @@
 Format: http://dep.debian.net/deps/dep5/
 Upstream-Name: upc_ca_ona_hts
 Upstream-Contact: Sergio Oller <sergioller@gmail.com>, Antonio Bonafonte <antonio.bonafonte@upc.edu>
-Source: http://www.talp.cat/festcat/download.php
+Source: http://festcat.talp.cat/download.php
 Copyright: Universitat Politècnica de Catalunya, Antonio Bonafonte
 License: LGPL-2.1+
 
