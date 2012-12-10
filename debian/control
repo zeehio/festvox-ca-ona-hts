@@ -4,7 +4,7 @@ Priority: optional
 Maintainer: Sergio Oller <sergioller@gmail.com>
 Build-Depends: debhelper (>= 8)
 Standards-Version: 3.9.2
-Homepage: http://www.talp.cat/festcat/
+Homepage: http://festcat.talp.cat
 
 Package: festvox-ca-ona-hts
 Architecture: all
