@@ -1,4 +1,4 @@
-Format: http://dep.debian.net/deps/dep5/
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: upc_ca_ona_hts
 Upstream-Contact: Sergio Oller <sergioller@gmail.com>, Antonio Bonafonte <antonio.bonafonte@upc.edu>
 Source: http://festcat.talp.cat/download.php
