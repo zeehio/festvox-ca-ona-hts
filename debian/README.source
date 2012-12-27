@@ -9,8 +9,9 @@ The original data consists on:
   * Recordings
   * Phonetic segmentation of the recordings
 
-All the data is free as in "free speech" and can be downloaded from: 
-http://festcat.talp.cat/src/
+This data is licensed under a Creative Commons Acknowledgment Share Alike
+license and can be downloaded from: 
+http://festcat.talp.cat/download/data
 
 ## Required tools
 
@@ -42,6 +43,5 @@ The required tools to train the models are:
 
  * Specific Catalan package:
    - upc_ca_base (http://festcat.talp.cat, or the "festival-ca" package)
-   - Catalan hts template (http://festcat.talp.cat/stc/ca_hts_template.tgz)
 
 
