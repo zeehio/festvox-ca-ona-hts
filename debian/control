@@ -2,8 +2,8 @@ Source: festvox-ca-ona-hts
 Section: sound
 Priority: optional
 Maintainer: Sergio Oller <sergioller@gmail.com>
-Build-Depends: debhelper (>= 8)
-Standards-Version: 3.9.2
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.4
 Homepage: http://festcat.talp.cat
 
 Package: festvox-ca-ona-hts
