@@ -5,10 +5,12 @@ Maintainer: Sergio Oller <sergioller@gmail.com>
 Build-Depends: debhelper (>= 9)
 Standards-Version: 3.9.4
 Homepage: http://festcat.talp.cat
+Vcs-Git: git://git.debian.org/collab-maint/festvox-ca-ona-hts.git
+Vcs-Browser: http://anonscm.debian.org/git/collab-maint/festvox-ca-ona-hts.git
 
 Package: festvox-ca-ona-hts
 Architecture: all
-Depends: festival-ca (>=1.0), ${misc:Depends}
+Depends: festival-ca (>=2.1.5), ${misc:Depends}
 Provides: festival-catalan-voice
 Description: Catalan female speaker for festival, 16kHz HTS
  This is a Catalan female HTS voice for festival that uses 
