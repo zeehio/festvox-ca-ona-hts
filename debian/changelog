@@ -1,3 +1,9 @@
+festvox-ca-ona-hts (1.1-1) UNRELEASED; urgency=medium
+
+  * New upstream release
+
+ -- Sergio Oller <sergioller@gmail.com>  Tue, 18 Feb 2014 15:20:44 +0100
+
 festvox-ca-ona-hts (1.0.2-1) unstable; urgency=low
 
   * Initial release (Closes: #639701)
