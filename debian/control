@@ -5,7 +5,7 @@ Maintainer: Sergio Oller <sergioller@gmail.com>
 Build-Depends: debhelper (>= 9)
 Standards-Version: 3.9.5
 Homepage: http://festcat.talp.cat/
-Vcs-Git: git://git.debian.org/tts/festvox-ca-ona-hts.git
+Vcs-Git: git://anonscm.debian.org/tts/festvox-ca-ona-hts.git
 Vcs-Browser: http://anonscm.debian.org/git/tts/festvox-ca-ona-hts.git
 
 Package: festvox-ca-ona-hts
