@@ -1,3 +1,10 @@
+festvox-ca-ona-hts (1.2-1) unstable; urgency=medium
+
+  * New upstream version.
+    - Fix bugs with saying-some-words-split-like-this.
+
+ -- Sergio Oller <sergioller@gmail.com>  Sun, 04 May 2014 02:26:28 +0200
+
 festvox-ca-ona-hts (1.0.2-1) unstable; urgency=low
 
   * Initial release (Closes: #639701)
