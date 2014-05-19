@@ -22,8 +22,7 @@ Files: festvox/upc_ca_ona_hts.scm
 Copyright: 2002 Nagoya Institute of Technology, Carnegie Mellon University
            2007 Antonio Bonafonte
 License: EST and LGPL-2.1+
- Modifications by Antonio Bonafonte, originals available at festvox.orig                                 
- as requested.
+ Modifications by Antonio Bonafonte.
 
 Files: debian/*
 Copyright: Copyright 2011 Sergio Oller <sergioller@gmail.com>
